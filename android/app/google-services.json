@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1016630551609",
+    "firebase_url": "https://expo-app-test-firebase-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "expo-app-test-firebase",
+    "storage_bucket": "expo-app-test-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016630551609:android:1bced9e4385509d6a159e8",
+        "android_client_info": {
+          "package_name": "com.crudoperation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyzPUvYs_LgFHdgxa04v66TpdOJ9g6WMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016630551609:android:bc3857f32b2b917aa159e8",
+        "android_client_info": {
+          "package_name": "com.sanjeev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyzPUvYs_LgFHdgxa04v66TpdOJ9g6WMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
